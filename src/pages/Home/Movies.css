@@ -1,0 +1,28 @@
+.moviesDiv{
+    text-align: center;
+    padding: 1%;
+    position: relative;
+}
+.moviesDiv .favorSatr{
+    color: #EEC115;
+    position: absolute;
+    left: 75%;
+    top: 5%
+}
+.moviesDiv .favorSatr:hover{
+    cursor: pointer;
+}
+.moviesDiv .movieImage{
+    width: 100%;
+    max-width: 50vw;
+    height: 50vh;
+}
+.moviesDiv .title{
+    margin-top: 10px;
+    height: 10vmin !important;
+    font-size: 3.5vmin !important;
+}
+.moviesDiv .rate{
+    margin: 10px 0;
+    font-size: 3vmin;
+}

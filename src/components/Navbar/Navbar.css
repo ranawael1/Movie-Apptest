@@ -1,0 +1,16 @@
+.language:hover{
+    cursor: pointer;
+}
+.search{
+    position: relative;
+}
+.search .search-button{
+    position: absolute;
+    left: 83%;
+    border: none;
+}
+.search .search-button:hover{
+    border: none;
+    outline: none;
+
+}

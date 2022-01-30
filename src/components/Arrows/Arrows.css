@@ -1,0 +1,19 @@
+.arrow{
+    width: 15% ;
+    position: fixed;
+    top: 90%;
+    font-size: 1em ;
+    display: inline;
+    font-size: 2vmin !important;
+}
+.arrow-left{
+    left: 10%;
+}
+.arrow-right{
+    float: right;
+    clear: both;
+    right: 10%;
+}
+.button-dark{
+    background: #707071 !important;
+}

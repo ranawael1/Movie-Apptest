@@ -1,0 +1,10 @@
+.trash{
+    color: red;
+    position: absolute;
+    left: 80%;
+    top: 5%;
+    cursor: pointer;
+}
+.title{
+    font-size: 1.25em !important;
+}

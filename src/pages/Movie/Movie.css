@@ -1,0 +1,30 @@
+.movieDiv{
+ margin-top: 6%;   
+ text-align: left;
+ text-align: justify;
+ display: flex;
+}
+.movieDiv .flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 60vh;
+}
+.movieDiv img{
+   height: 90%;
+}
+.movieDiv .display{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+@media (max-width:768px) {
+    .hidden{display: inline;}
+    .hidden2{display: none;}
+}
+@media (min-width:768px) {
+    .hidden{display:none;}
+    .hidden2{display: block;}
+}
+
+
